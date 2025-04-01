@@ -8,10 +8,10 @@ Este artefato resume como se deu todo o andamento da reunião do grupo 03 realiz
 
 ## Pautas da reunião:
 
-Decisão dos artefatos.
-Definição do dia que ocorrerá a reunião semanal. 
-Definição dos objetivos do grupo e escopo do projeto a ser realizado.
-Separação por membros em sub-grupos do que cada um terá que fazer.
+- Decisão dos artefatos.
+- Definição do dia que ocorrerá a reunião semanal. 
+- Definição dos objetivos do grupo e escopo do projeto a ser realizado.
+- Separação por membros em sub-grupos do que cada um terá que fazer.
 
 ## Integrantes presentes:
 
