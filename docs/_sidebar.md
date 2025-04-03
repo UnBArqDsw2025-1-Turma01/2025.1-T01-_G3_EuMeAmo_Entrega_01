@@ -27,3 +27,4 @@
 
 - **Atas**
  - [Ata - 01](Projeto/Iniciativas%20Extras/ata_01.md)
+ - [Ata - 02](Projeto/Iniciativas%20Extras/ata_02.md)
