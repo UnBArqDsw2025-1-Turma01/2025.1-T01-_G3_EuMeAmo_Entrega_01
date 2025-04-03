@@ -29,6 +29,14 @@ Projeto G3 - Eu Me Amo, baseado em sites e/ou materiais informativos sobre cuida
 ## Screenshots da Primeira Entrega
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
+<center>
+
+__Mapa Mental 1: Universo da Plataforma__
+
+![Mapa Mental 1](assets/mapas_mentais/mapamental_EuMeAmo_plataforma_autocuidado.png)
+
+</center>
+
 ## Há algo a ser executado?
 
 ( ) SIM
