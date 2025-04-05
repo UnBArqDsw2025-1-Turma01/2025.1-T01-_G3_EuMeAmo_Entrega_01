@@ -14,7 +14,7 @@
     - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1. Mapa Mental](Base/1.2.1.Mapa-mental.md)
       - [1.2.2. Rich Picture](Base/1.2.5.Richpicture.md)
-      - [1.2.3. 5W2H](Base/SW2H.md)
+      - [1.2.3. 5W2H](Base/1.2.3.5W2H.md)
       - [1.2.4 Léxicos](Base/1.2.1.Léxicos.md)
     - [1.3. Modelagem BPMN](Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
@@ -28,3 +28,4 @@
 - **Atas**
  - [Ata - 01](Projeto/Iniciativas%20Extras/ata_01.md)
  - [Ata - 02](Projeto/Iniciativas%20Extras/ata_02.md)
+ - [Ata - 03](Projeto/Iniciativas%20Extras/ata_03.md)
