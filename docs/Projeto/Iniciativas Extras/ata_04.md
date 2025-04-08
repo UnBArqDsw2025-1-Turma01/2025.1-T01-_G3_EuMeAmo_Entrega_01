@@ -1,4 +1,4 @@
-# Reunião 4 : 07/04/2025
+# Reunião 4 : 02/04/2025
 
 ## Introdução
 
@@ -8,7 +8,7 @@ Esse artefato resume como se deu todo o andamento da reunião do grupo 03 realiz
 
 - Reflexão sobre o tema do artefato.
 - Discussão sobre o Rich Picture.
-- Desenvolvimento do Framework em uma board, utilizando a ferramenta Miro.
+- Desenvolvimento do Framework em um board, utilizando a ferramenta Miro.
 
 ## Integrantes presentes:
 
@@ -41,13 +41,13 @@ Esse artefato resume como se deu todo o andamento da reunião do grupo 03 realiz
 
 </font>
 
-## Resultados da reunião 03
+## Resultados da reunião 04
 
 Os resultados alcançados pelo grupo foram:
 
 - Criação do artefato Rich Picture.
 
-- O subgrupo responsável pelo desenvolvimento do Rich Picture decidiu refinar as ideias que apareceram durante o desenvolvimento do artefato após apresentar para o resto do grupo via Whatsapp e na reunião geral do dia 07/04/2025.
+- O subgrupo responsável pelo desenvolvimento do Rich Picture decidiu refinar as ideias que apareceram durante o desenvolvimento do artefato após apresentar para o resto do grupo, via Whatsapp e durante a reunião geral do dia 07/04/2025.
 
 
 ## Gravação da reunião
