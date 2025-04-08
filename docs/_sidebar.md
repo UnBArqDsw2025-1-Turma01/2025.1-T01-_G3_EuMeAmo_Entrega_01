@@ -15,7 +15,7 @@
       - [1.2.1. Mapa Mental](Base/1.2.1.Mapa-mental.md)
       - [1.2.2. Rich Picture](Base/1.2.2.RichPicture.md)
       - [1.2.3. 5W2H](Base/1.2.3.5W2H.md)
-      - [1.2.4 Léxicos](Base/1.2.1.Léxicos.md)
+      - [1.2.4 Léxicos](Base/1.2.4.Lexicos.md)
     - [1.3. Modelagem BPMN](Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
