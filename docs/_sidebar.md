@@ -24,7 +24,7 @@
       - [1.5.2. Perfil do Usuário]()
       - [1.5.3. Guia de Estilo]()
       - [1.5.4. Ferramentas Utilizadas](/Base/1.5.4.FerramentasUtilizadas.md)
-
+      - [1.5.5. Padronização de Branches e Commits](/Base/1.5.5.PadronizacaoBranchesCommits.md)  
 - **Atas**
 
  - [Ata - 01](Projeto/Iniciativas%20Extras/ata_01.md)
