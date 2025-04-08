@@ -10,7 +10,7 @@ body:
     attributes:
       label: Nome do Artefato
       description: Dê um nome claro para o artefato
-      placeholder: Ex: Documento de Priorização de Requisitos
+      placeholder: Ex - Documento de Priorização de Requisitos
     validations:
       required: true
 
@@ -19,7 +19,7 @@ body:
     attributes:
       label: Descrição
       description: Descreva brevemente o propósito do artefato
-      placeholder: Ex: Documento que descreve a priorização dos requisitos utilizando a técnica MoSCoW.
+      placeholder: Ex - Documento que descreve a priorização dos requisitos utilizando a técnica MoSCoW.
     validations:
       required: true
 
@@ -53,7 +53,7 @@ body:
     attributes:
       label: Data de Entrega
       description: Quando o artefato deve ser finalizado
-      placeholder: Ex: 10/04/2025
+      placeholder: Ex - 10/04/2025
     validations:
       required: true
 
