@@ -1,4 +1,4 @@
-# Reunião 5 : 08/04/2025
+# Reunião 7 : 08/04/2025
 
 ## Introdução
 
@@ -32,7 +32,7 @@ Esse artefato resume como se deu todo o andamento da reunião do grupo 03 realiz
 
 |    Data    | Início |  Fim  | Local |
 | :--------: | :----: | :---: | :---: |
-| 07/04/2025 | 21:30  | 22:18 | TEAMS |
+| 08/04/2025 | 21:30  | 22:18 | TEAMS |
 
 <font size="2" >
 
