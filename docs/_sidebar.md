@@ -26,6 +26,9 @@
       - [1.5.3. Guia de Estilo]()
       - [1.5.4. Ferramentas Utilizadas](/Base/1.5.4.FerramentasUtilizadas.md)
       - [1.5.5. Padronização de Branches e Commits](/Base/1.5.5.PadronizacaoBranchesCommits.md)  
+      - [1.5.6. Tabela de Requisitos](/Base/1.5.6.Tabela-Requisitos.md)
+      - [1.5.7. Priorização](/Base/1.5.7.Priorizacao.md)
+      - [1.5.8. Escopo Mínimo](/Base/1.5.8.Escopo-minimo.md)
 - **Atas**
 
  - [Ata - 01](Projeto/Iniciativas%20Extras/ata_01.md)
