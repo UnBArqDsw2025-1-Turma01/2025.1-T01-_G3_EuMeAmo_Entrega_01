@@ -21,7 +21,7 @@
     - [1.3. Modelagem BPMN](Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
-      - [1.5.1. Heatmap de disponibilidade]()
+      - [1.5.1. Heatmap de disponibilidade](/Base/1.5.1.Heatmap.md)
       - [1.5.2. Perfil do Usuário]()
       - [1.5.3. Guia de Estilo]()
       - [1.5.4. Ferramentas Utilizadas](/Base/1.5.4.FerramentasUtilizadas.md)
@@ -32,4 +32,6 @@
  - [Ata - 02](Projeto/Iniciativas%20Extras/ata_02.md)
  - [Ata - 03](Projeto/Iniciativas%20Extras/ata_03.md)
  - [Ata - 04](Projeto/Iniciativas%20Extras/ata_04.md)
-
+ - [Ata - 05](Projeto/Iniciativas%20Extras/ata_05.md)
+ - [Ata - 06](Projeto/Iniciativas%20Extras/ata_06.md)
+ - [Ata - 07](Projeto/Iniciativas%20Extras/ata_07.md)
