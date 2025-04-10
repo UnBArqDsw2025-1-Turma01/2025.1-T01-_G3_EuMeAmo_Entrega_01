@@ -1,16 +1,15 @@
 <center>
 
-# __EuMeAmo__
+# __Projeto EuMeAmo__
+
+### __Arquitetura e Desenho de Software__
+
+#### __Entrega 1__
 
 ![Logo EuMeAmo](../assets/logo-removebg-preview.png)
 
 </center>
 
----
-
-**Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: 03<br>
-**Entrega**: 01<br>
 
 ---
 
