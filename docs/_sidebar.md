@@ -29,6 +29,7 @@
       - [1.5.6. Tabela de Requisitos](/Base/1.5.6.Tabela-Requisitos.md)
       - [1.5.7. Priorização](/Base/1.5.7.Priorizacao.md)
       - [1.5.8. Escopo Mínimo](/Base/1.5.8.Escopo-minimo.md)
+      - [1.5.9. Lista de Stakeholders](Base/1.5.9.ListaStakeholders.md)
 - **Atas**
 
  - [Ata - 01](Projeto/Iniciativas%20Extras/ata_01.md)
