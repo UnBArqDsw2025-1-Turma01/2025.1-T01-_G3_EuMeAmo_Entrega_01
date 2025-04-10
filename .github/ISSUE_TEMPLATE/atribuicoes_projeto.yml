@@ -1,0 +1,94 @@
+name: "📄 Registro de Artefato"
+description: "Template para documentar os artefatos do projeto"
+title: "📄 Artefato: [Nome do Artefato]"
+labels: [artefato, documentação]
+assignees: []
+
+body:
+  - type: input
+    id: nome-artefato
+    attributes:
+      label: Nome do Artefato
+      description: Dê um nome claro para o artefato
+      placeholder: Ex - Documento de Priorização de Requisitos
+    validations:
+      required: true
+
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descrição
+      description: Descreva brevemente o propósito do artefato
+      placeholder: Ex - Documento que descreve a priorização dos requisitos utilizando a técnica MoSCoW.
+    validations:
+      required: true
+
+  - type: textarea
+    id: integrantes
+    attributes:
+      label: Integrantes
+      description: Liste os integrantes envolvidos na criação ou revisão deste artefato
+      placeholder: |
+        - Arthur
+        - Carlos
+        - Luiza
+        - ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: responsabilidades
+    attributes:
+      label: Responsabilidades
+      description: Detalhe quem fez o quê neste artefato
+      placeholder: |
+        - Arthur: Montagem da estrutura e escrita inicial
+        - Luiza: Revisão e formatação
+        - Carlos: Pesquisa sobre a técnica MoSCoW
+    validations:
+      required: false
+
+  - type: input
+    id: data-entrega
+    attributes:
+      label: Data de Entrega
+      description: Quando o artefato deve ser finalizado
+      placeholder: Ex - 10/04/2025
+    validations:
+      required: true
+
+  - type: textarea
+    id: datas-importantes
+    attributes:
+      label: Datas Importantes
+      description: Liste prazos intermediários, revisões ou reuniões relacionadas ao artefato
+      placeholder: |
+        - 08/04: Reunião para revisar conteúdo
+        - 09/04: Finalização da escrita
+        - 10/04: Entrega no GitHub
+    validations:
+      required: false
+
+  - type: dropdown
+    id: status
+    attributes:
+      label: Status do Artefato
+      description: Qual o estado atual?
+      options:
+        - Em andamento
+        - Em revisão
+        - Finalizado
+        - Aguardando aprovação
+    validations:
+      required: true
+
+  - type: textarea
+    id: observacoes
+    attributes:
+      label: Observações
+      description: Informações adicionais, instruções ou anotações importantes
+      placeholder: |
+        - Enviar o artefato final para a pasta /docs
+        - Confirmar com a professora se a técnica utilizada está correta
+    validations:
+      required: false
