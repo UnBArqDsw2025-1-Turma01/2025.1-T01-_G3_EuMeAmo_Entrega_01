@@ -6,7 +6,8 @@
 
 #### __Entrega 1__
 
-![Logo EuMeAmo](../assets/logo-removebg-preview.png)
+![Logo EuMeAmo](../assets/logo-Photoroom.png)
+
 
 </center>
 
