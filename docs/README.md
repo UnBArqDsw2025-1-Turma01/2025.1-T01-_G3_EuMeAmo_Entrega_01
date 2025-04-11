@@ -6,7 +6,9 @@
 
 #### __Entrega 1__
 
-![Logo EuMeAmo](assets/logo-sem-fundo.png)
+<p align="center">
+  <img src="assets/logo.jpeg" alt="Logo EuMeAmo" style="width: 500px; height: 500px; border-radius: 50%;">
+</p>
 
 
 </center>
