@@ -6,9 +6,8 @@
 
 #### __Entrega 1__
 
-<p align="center">
-  <img src="logo.jpeg" alt="Logo EuMeAmo" style="width: 500px; height: 500px; border-radius: 50%;">
-</p>
+![logo](logo-removebg-preview.png)
+
 
 
 </center>
