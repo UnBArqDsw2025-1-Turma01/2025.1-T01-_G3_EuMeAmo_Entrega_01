@@ -7,7 +7,7 @@
 #### __Entrega 1__
 
 <p align="center">
-  <img src="/docs/assets/logo.jpeg" alt="Logo EuMeAmo" style="width: 500px; height: 500px; border-radius: 50%;">
+  <img src="logo.jpeg" alt="Logo EuMeAmo" style="width: 500px; height: 500px; border-radius: 50%;">
 </p>
 
 
