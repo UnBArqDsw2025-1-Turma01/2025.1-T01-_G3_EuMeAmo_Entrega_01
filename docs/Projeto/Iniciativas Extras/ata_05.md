@@ -43,7 +43,7 @@ Este artefato resume o andamento da reunião do grupo 03, realizada na data espe
 
 </font>
 
-## Resultados da reunião 04
+## Resultados da reunião 
 
 Os resultados alcançados pelo grupo foram:
 
