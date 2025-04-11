@@ -82,30 +82,85 @@ A solução desenvolvida pode ser apresentada em diferentes formatos — como si
 
 ---
 
-</center>
-
-
-
 ## __Screenshots dos Artefatos da Primeira Entrega__
-
-
-
-
-<center>
 
 __Mapa Mental 1: Universo da Plataforma__
 
 ![Mapa Mental 1](assets/mapas_mentais/mapamental_EuMeAmo_plataforma_autocuidado.png)
 
+__5W2H:__
+
+![5w2h](./assets/artefatos_E1/5w2h.png)
+
+__Análise de Concorrênica:__
+
+![Análise de Concorrênica](./assets/artefatos_E1/analise-conco.png)
+
+__BPMN:__
+
+![BPMN](./assets/artefatos_E1/bpmn.png)
+
+__Ferramentas Utilizadas:__
+
+![Ferramentas Utilizadas](./assets/artefatos_E1/ferramentas.png)
+
+__Heatmap:__
+
+![Heatmap](./assets/artefatos_E1/heatmap.png)
+
+__Lexico:__
+
+![Lexico](./assets/artefatos_E1/lexico.png)
+
+__Lista de Stakeholders:__
+
+![LexLista de Stakeholdersico](./assets/artefatos_E1/lista-stake.png)
+
+__Matriz CSD:__
+
+![atriz CSD](./assets/artefatos_E1/matriz-csd.png)
+
+__Padronização de Branch e Commits:__
+
+![Padronização de Branch e Commits](./assets/artefatos_E1/padrao-branch.png)
+
+__Protótipação:__
+
+![Protótipação](./assets/artefatos_E1/prototipo.png)
+
+__Público-alvo:__
+
+![Público-alvo](./assets/artefatos_E1/publico-alvo.png)
+
+__Questionário:__
+
+![Questionário](./assets/artefatos_E1/questionario.png)
+
+__Rich Picture:__
+
+![Rich Picture](./assets/artefatos_E1/richpicture.png)
+
+__Tabela de Escopo:__
+
+![Tabela de Escopo](./assets/artefatos_E1/tab-escopo.png)
+
+__Tabela de Priorização:__
+
+![Tabela de Priorização](./assets/artefatos_E1/tab-prio.png)
+
+__Tabela de Requisitos:__
+
+![Tabela de equisitos](./assets/artefatos_E1/tab-req.png)
+
 </center>
+
+
 
 ## Há algo a ser executado?
 
 ( ) SIM
 
-( ) NÃO
-
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+(X) NÃO
 
 
 
@@ -114,4 +169,5 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | 
 | :----: | :--: | --------- | ----------- | ------ |
 | '1.0'  | 01/04/2025 | Criação do documento |Carlos Henrique  | [Luiza](Luiza) | 
-| '1.1' | 10/04/2025 | Mudança de layout. | [Luiza]()
+| '1.1' | 10/04/2025 | Mudança de layout. | [Luiza]() | [Lucas]()|
+| '1.2' | 11/04/2025 | Adição dos prints dos artefatos. | [Luiza]() | [Lucas]()|
