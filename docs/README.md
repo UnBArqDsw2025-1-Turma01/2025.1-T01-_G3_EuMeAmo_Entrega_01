@@ -6,7 +6,7 @@
 
 #### __Entrega 1__
 
-![Logo EuMeAmo](../assets/logo-sem-fundo.png)
+![Logo EuMeAmo](/assets/logo-sem-fundo.png)
 
 
 </center>
