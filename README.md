@@ -6,7 +6,7 @@
 
 #### __Entrega 1__
 
-![logo](logo.jpeg)
+![logo](./docs/logo.jpeg)
 
 </center>
 
