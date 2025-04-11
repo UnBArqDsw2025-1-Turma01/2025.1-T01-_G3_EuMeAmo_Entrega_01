@@ -40,7 +40,7 @@ Esse artefato resume como se deu todo o andamento da reunião do grupo 03 realiz
 
 </font>
 
-## Resultados da reunião 04
+## Resultados da reunião 
 
 Os resultados alcançados pelo grupo foram:
 
